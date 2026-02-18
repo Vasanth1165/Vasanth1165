@@ -18,7 +18,7 @@
 
 ###
 
-<p align="left">🔭 I’m currently working as a Flutter developer at Technical Hub<br>🌱 I’m currently learning Nodejs, MongoDB<br>👯 I’m looking to collaborate on exciting new projects, share insights, or help you navigate the world of Flutter development and app publishing<br>💬 Ask me about Dart, Flutter, Firebase & App Publishing.</p>
+<p align="left">🔭 I’m currently working as a Flutter developer at Technical Hub<br>👯 I’m looking to collaborate on exciting new projects, share insights, or help you navigate the world of Flutter development and app publishing<br>💬 Ask me about Dart, Flutter, Firebase, Play Store, App Store, NodeJs, MongoDB.</p>
 
 ###
 
